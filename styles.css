@@ -5,14 +5,76 @@
     border: solid 2px;
     border-color: red;
 
+    margin: 5px;
+
+}
 
 
-};
+.maincontainer {
 
 
-.headerwords {
 
-    
-    
+    display: flex;
+    justify-content: space-between;
 
-};
+
+    border: solid 2px;
+    border-color: blue;
+    margin: 5px;
+
+
+
+}
+
+
+
+.majormetrics_area {
+
+    border: solid 2px;
+    border-color: brown;
+    margin: 5px;
+
+
+
+}
+
+
+
+.gobutton_zipcode_area {
+
+    border: solid 2px;
+    border-color: aquamarine;
+    margin: 5px;
+
+
+}
+
+
+.personalmetrics_area {
+
+border: solid 2px;
+border-color: blueviolet;
+margin: 5px;
+
+
+
+}
+
+
+
+.footer_container {
+
+    border: solid 2px;
+    margin: 5px;
+
+
+}
+
+
+
+.signup_area {
+
+
+
+
+}
